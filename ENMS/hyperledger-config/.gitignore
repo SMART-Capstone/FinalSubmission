@@ -1,0 +1,7 @@
+hyperledger-config/bin/*
+hyperledger-config/artifacts/*
+hyperledger-config/organizations/fabric-ca/*
+organizations/fabric-ca/org2/*
+organizations/fabric-ca/org1/*
+organizations/fabric-ca/ordererOrg/*
+.env

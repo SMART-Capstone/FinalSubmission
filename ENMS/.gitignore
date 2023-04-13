@@ -1,0 +1,10 @@
+/hyperledger-config/bin/*
+/hyperledger-config/log.txt
+/hyperledger-config/basic.tar.gz
+/hyperledger-config/organizations/ordererOrganizations/example.com/*
+/hyperledger-config/organizations/peerOrganizations/org1.example.com/*
+/hyperledger-config/organizations/peerOrganizations/org2.example.com/*
+/hyperledger-config/channel-artifacts/*
+/enms-api/node_modules/*
+/enms-api/dist/*
+/enms-api/.env
